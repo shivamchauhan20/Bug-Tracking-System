@@ -1,0 +1,115 @@
+.p {
+  font-family: "Times New Roman", Times, sans-serif;
+  text-align: center;
+  background-color: wheat
+}
+.q{
+  font-family: "Times New Roman", Times, sans-serif;
+  text-align: center;
+  background-color: cadetblue
+  }
+.r{
+    font-family: "Times New Roman", Times, sans-serif;
+    text-align: center;
+    background-color: teal
+  }  
+.s{
+    font-family: "Times New Roman", Times, sans-serif;
+    text-align: center;
+    background-color: palegoldenrod
+  }
+.t{
+    font-family: "Times New Roman", Times, sans-serif;
+    text-align: center;
+    background-color: silver
+  }    
+.active{
+    color: red;
+  }   
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="userid"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.image{
+  max-width: 600px;
+  max-height: 200px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+.i{
+  position: absolute;
+  height: 230px;
+  width: 400px;
+  left: 400px;
+  top: 120px;
+}
+.bg {
+  height: 350px;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-corporate-conference-board-background-image_132253.jpg");
+  background-color: #cccccc;
+ }
+.bgl{
+  width: 780px;
+  height: 375px;
+  background-image: url("https://image.freepik.com/free-photo/black-background-with-wavy-colored-shapes_1048-3762.jpg");
+  background-color: #cccccc;
+ }
+.adduserbg{
+  height: 375px;
+  background-image: url("https://vayana.com/wp-content/uploads/2018/05/form-background.jpg");
+  background-color: #cccccc;
+}   
+.addprojectbg{
+  height: 375px;
+  background-image: url("https://jambernews.files.wordpress.com/2013/07/6956519-abstract-grey-background-in-the-form-of-a-grid-in-a-grunge-style.jpg?w=810");
+  background-color: #cccccc;
+} 
+.addbugbg{
+  height: auto;
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/1999295/thumb/1.jpg");
+  background-color: #cccccc;
+} 
+.changepasswordbg{
+  height: 375px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT085Tr1hfH8KgYMsqpX7k1DAjqHWl5EUWUoXBRbE_uj3fkkZlF&s");
+  background-color: #cccccc;
+} 
+.editrolebg{
+  height: 375px;
+  background-image: url("https://3.bp.blogspot.com/-aKbhc64ezXU/W_Ndn76qLsI/AAAAAAAAAes/cIxYXAY3TzoFDYicwstFK2pQ7y_ANhBpwCHMYCw/s1600/top-89-green-abstract-background-hd-background-spot.jpg");
+  background-color: #cccccc;
+} 
+.btn {
+  background-color: crimson;
+  border: darkblue;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}    
